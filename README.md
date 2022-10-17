@@ -1,4 +1,4 @@
-# -D-p-t-Projet-Big-Data-Machine-Learning-pyspark-
+# Projet-Big-Data-Machine-Learning-pyspark-
 Ce projet:
 
 - Décrit statistiquement les données
